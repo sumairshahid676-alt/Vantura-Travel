@@ -30,9 +30,6 @@ body { font-family: 'Poppins', sans-serif; background: #f4f6f9; overflow-x: hidd
 
 
 
-
-
-
 .btn-main {
     background: var(--primary); color: var(--white); border: none;
     padding: 14px 30px; border-radius: 8px; font-weight: 600; cursor: pointer;
@@ -107,12 +104,6 @@ body { font-family: 'Poppins', sans-serif; background: #f4f6f9; overflow-x: hidd
     to { opacity: 1; transform: translateY(0); }
 }
 .hero-content { animation: fadeInUp 1.2s ease-out; }
-
-
-
-
-
-
 
 
 .main-footer {
@@ -195,7 +186,7 @@ body { font-family: 'Poppins', sans-serif; background: #f4f6f9; overflow-x: hidd
 
 .footer-links a:hover {
     color: var(--primary);
-    padding-left: 10px; /* Subtle slide effect */
+    padding-left: 10px;
 }
 
 
